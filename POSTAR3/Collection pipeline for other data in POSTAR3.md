@@ -8,8 +8,7 @@
 
 1. RBP geneName needs to be unified (in some paper they use specific names that do not fit ensembl, please refer to ensembl for standard geneName)
 2. geneID was also from ensembl
-3. protein domain (motif): obtain sequence from ncbi protein, then input protein sequence into http://pfam.xfam.org/ -> SEQUENCE SEARCH, only curate significant match
-
+3. protein domain (motif): obtain sequence from ncbi protein, then input protein sequence into https://www.ebi.ac.uk/Tools/hmmer/search/hmmscan -> select only "Pfam" in "HMM Database" -> select "E-value" in "Cut-Offs" with default parameters -> click "submit", only curate significant domains
 
 
 #### {species}_GO
