@@ -1,6 +1,6 @@
 # Process pipeline for POSTAR3 high-throughput data
 
-###CLIP-seq
+### CLIP-seq
 
 #### Overview
 
